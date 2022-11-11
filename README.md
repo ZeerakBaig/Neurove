@@ -16,5 +16,5 @@ Neurove is an extensive biometrics project aimed to detect facial paralysis in f
 
  ## Research Paper
  
- Research paper available at : [Research Paper Link](https://github.com/user/repo/blob/branch/other_file.md)
+ Research paper available at : [Research Paper Link](https://github.com/ZeerakBaig/Neurove/blob/main/Research_Paper/Facial_Paralysis_Recognition.pdf)
 

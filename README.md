@@ -1,3 +1,3 @@
 # Neurove
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ZeerakBaig/Neurove/blob/main/NeuroveLogo.png?raw=true)
